@@ -1,5 +1,5 @@
 # R-MAC
-![screenshott](/Users/cory/Code/rmac/screenshot.png)
+![./screenshot.png](/Users/cory/Code/rmac/screenshot.png)
 
 An alfred Workflow for resetting your MAC address on your Mac.
 
